@@ -1,0 +1,17 @@
+
+.table tr:hover{
+    background: #007ACC;
+}
+.table thead tr:first-child{
+   background:#fff;
+}
+.table tr td{
+    cursor: pointer;
+}
+
+.hideAddRow{
+    display: none;
+}
+.showAddRow{
+    display: contents;
+}

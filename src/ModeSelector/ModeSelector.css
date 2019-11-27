@@ -1,0 +1,9 @@
+.btnModeSelector{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.btnModeSelector button{
+    margin: 0 5px;
+}
